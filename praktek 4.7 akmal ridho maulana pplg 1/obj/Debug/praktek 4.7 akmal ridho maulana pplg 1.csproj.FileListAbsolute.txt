@@ -1,0 +1,7 @@
+C:\Users\Zyrex\Pictures\c#akmal\praktek 4.7 akmal ridho maulana pplg 1\bin\Debug\praktek 4.7 akmal ridho maulana pplg 1.exe.config
+C:\Users\Zyrex\Pictures\c#akmal\praktek 4.7 akmal ridho maulana pplg 1\bin\Debug\praktek 4.7 akmal ridho maulana pplg 1.exe
+C:\Users\Zyrex\Pictures\c#akmal\praktek 4.7 akmal ridho maulana pplg 1\bin\Debug\praktek 4.7 akmal ridho maulana pplg 1.pdb
+C:\Users\Zyrex\Pictures\c#akmal\praktek 4.7 akmal ridho maulana pplg 1\obj\Debug\praktek 4.7 akmal ridho maulana pplg 1.csproj.AssemblyReference.cache
+C:\Users\Zyrex\Pictures\c#akmal\praktek 4.7 akmal ridho maulana pplg 1\obj\Debug\praktek 4.7 akmal ridho maulana pplg 1.csproj.CoreCompileInputs.cache
+C:\Users\Zyrex\Pictures\c#akmal\praktek 4.7 akmal ridho maulana pplg 1\obj\Debug\praktek 4.7 akmal ridho maulana pplg 1.exe
+C:\Users\Zyrex\Pictures\c#akmal\praktek 4.7 akmal ridho maulana pplg 1\obj\Debug\praktek 4.7 akmal ridho maulana pplg 1.pdb
